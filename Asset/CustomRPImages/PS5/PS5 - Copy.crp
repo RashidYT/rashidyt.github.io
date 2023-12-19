@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Preset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID></ID>
+  <Details>PS5</Details>
+  <State>Controllers</State>
+  <PartySize>2</PartySize>
+  <PartyMax>10</PartyMax>
+  <Timestamps>2</Timestamps>
+  <CustomTimestamp>2022-07-17T23:56:10</CustomTimestamp>
+  <LargeKey>https://raw.githubusercontent.com/RashidYT/rashidyt.github.io/main/Asset/CustomRPImages/PS5/LargeImage.jpeg</LargeKey>
+  <LargeText>PS5</LargeText>
+  <SmallKey>https://raw.githubusercontent.com/RashidYT/rashidyt.github.io/main/Asset/CustomRPImages/PS5/SmallImage.png</SmallKey>
+  <SmallText>Playstation</SmallText>
+  <Button1Text>View my website</Button1Text>
+  <Button1URL>https://rashidyt.github.io/</Button1URL>
+  <Button2Text />
+  <Button2URL />
+</Preset>
