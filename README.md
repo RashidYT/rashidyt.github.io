@@ -2,6 +2,12 @@
 
 This is my website
 
+# Projects I made
+
+| Name | Tags | Link | Description |
+| --- | --- | --- | --- |
+| FrSearch | Search | https://rashidyt.github.io/FrSearch/ | Search Something |
+
 # Things I own
 
 | Name | Tags | Status | Link | Description |
